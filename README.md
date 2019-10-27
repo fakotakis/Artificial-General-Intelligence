@@ -32,10 +32,10 @@ This repository contains Jupyter notebook content associated with my series on t
 
 (14) [Facial Recognition Meets Absolute Knowledge](https://www.evolving-science.com/information-communication/facial-recognition-meets-absolute-knowledge-00266)
 
-(15)[Advanced Rescue Robots: Keeping You Safe](https://www.evolving-science.com/intelligent-machines-robotics-automation-transportation/advanced-rescue-robots-keeping-you-safe-00338)
+(15) [Advanced Rescue Robots: Keeping You Safe](https://www.evolving-science.com/intelligent-machines-robotics-automation-transportation/advanced-rescue-robots-keeping-you-safe-00338)
 
-(16)[The Future Of Toy Design. Should It Include Brain-Computer Interfaces?](https://www.evolving-science.com/intelligent-machines-artificial-intelligence/future-toy-design-should-it-include-brain-computer-interfaces-00384)
+(16) [The Future Of Toy Design. Should It Include Brain-Computer Interfaces?](https://www.evolving-science.com/intelligent-machines-artificial-intelligence/future-toy-design-should-it-include-brain-computer-interfaces-00384)
 
-(17)[Amazon’s Wireless Wristbands Can Track Warehouse Workers](https://www.evolving-science.com/information-communication/amazon-s-wireless-wristbands-can-track-warehouse-workers-00612)
+(17) [Amazon’s Wireless Wristbands Can Track Warehouse Workers](https://www.evolving-science.com/information-communication/amazon-s-wireless-wristbands-can-track-warehouse-workers-00612)
 
-(18)[Meet The Location-Tracking, AI-Powered, Self-Flying Drone, R1](https://www.evolving-science.com/intelligent-machines/ai-drone-r1-00788)
+(18) [Meet The Location-Tracking, AI-Powered, Self-Flying Drone, R1](https://www.evolving-science.com/intelligent-machines/ai-drone-r1-00788)

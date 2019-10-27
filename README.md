@@ -1,6 +1,6 @@
 # The road to Artificial General Intelligence
 
-This repository contains Jupyter notebook content associated with my series on the future perspectives on A.G.I. The current articles in this series are as follows:
+This repository contains Jupyter notebook content associated with my series on Machine Learning Approaches and the future perspectives on A.G.I. The current articles in this series are as follows:
 
 (1) [Teaching Machines About Human Intuitions](https://www.evolving-science.com/intelligent-machines-artificial-intelligence/teaching-machines-about-human-intuition-00271)
 

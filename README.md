@@ -1,7 +1,5 @@
 # The road to Artificial General Intelligence
 
-This repository contains Jupyter notebook content associated with my series on Machine Learning Approaches and the future perspectives on A.G.I. The current articles in this series are as follows:
-
 (1) [Teaching Machines About Human Intuitions](https://www.evolving-science.com/intelligent-machines-artificial-intelligence/teaching-machines-about-human-intuition-00271)
 
 (2) [Google’s New Composer Uses Neural Networks](https://www.evolving-science.com/intelligent-machines-artificial-intelligence/google-s-new-composer-uses-neural-networks-00278)
